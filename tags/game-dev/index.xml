@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>game dev on Portfolio</title>
-    <link>https://averagebrine.github.io/tags/game-dev/</link>
+    <link>https://jeremiahnet.work/tags/game-dev/</link>
     <description>Recent content in game dev on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://averagebrine.github.io/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremiahnet.work/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brackeys Game Jam 2023.1</title>
-      <link>https://averagebrine.github.io/blog/brackeys-9/</link>
+      <link>https://jeremiahnet.work/blog/brackeys-9/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/blog/brackeys-9/</guid>
+      <guid>https://jeremiahnet.work/blog/brackeys-9/</guid>
       <description>Making a full game in one week (With help!)</description>
     </item>
     

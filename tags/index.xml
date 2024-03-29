@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Portfolio</title>
-    <link>https://averagebrine.github.io/tags/</link>
+    <link>https://jeremiahnet.work/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://averagebrine.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremiahnet.work/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>game dev</title>
-      <link>https://averagebrine.github.io/tags/game-dev/</link>
+      <link>https://jeremiahnet.work/tags/game-dev/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/tags/game-dev/</guid>
+      <guid>https://jeremiahnet.work/tags/game-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://averagebrine.github.io/tags/git/</link>
+      <link>https://jeremiahnet.work/tags/git/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/tags/git/</guid>
+      <guid>https://jeremiahnet.work/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://averagebrine.github.io/tags/go/</link>
+      <link>https://jeremiahnet.work/tags/go/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/tags/go/</guid>
+      <guid>https://jeremiahnet.work/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://averagebrine.github.io/tags/html/</link>
+      <link>https://jeremiahnet.work/tags/html/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/tags/html/</guid>
+      <guid>https://jeremiahnet.work/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://averagebrine.github.io/tags/hugo/</link>
+      <link>https://jeremiahnet.work/tags/hugo/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/tags/hugo/</guid>
+      <guid>https://jeremiahnet.work/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://averagebrine.github.io/tags/markdown/</link>
+      <link>https://jeremiahnet.work/tags/markdown/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/tags/markdown/</guid>
+      <guid>https://jeremiahnet.work/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web design</title>
-      <link>https://averagebrine.github.io/tags/web-design/</link>
+      <link>https://jeremiahnet.work/tags/web-design/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://averagebrine.github.io/tags/web-design/</guid>
+      <guid>https://jeremiahnet.work/tags/web-design/</guid>
       <description></description>
     </item>
     
